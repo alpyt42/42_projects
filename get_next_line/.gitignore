@@ -1,0 +1,5 @@
+a.out
+*.dSYM/
+bonus
+.vscode
+gnl/

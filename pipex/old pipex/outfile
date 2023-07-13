@@ -1,0 +1,17 @@
+Makefile
+file1.txt
+file2.txt
+ft_split.c
+ft_split.o
+libft_utils.c
+libft_utils.o
+libft_utils_2.c
+libft_utils_2.o
+outfile
+pipex
+pipex.c
+pipex.h
+pipex.o
+test_web
+utils.c
+utils.o

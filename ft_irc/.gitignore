@@ -1,0 +1,7 @@
+.objs/
+ircserv
+.vscode/
+*.xml
+.idea/workspace.xml
+*.xml
+test
