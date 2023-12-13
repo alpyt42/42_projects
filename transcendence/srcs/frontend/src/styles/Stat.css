@@ -1,0 +1,22 @@
+.tab-main-color {
+	background: linear-gradient(transparent, #fa34c3);
+	border-bottom: 3px solid #34fafa;
+	color: white;
+	text-align: center;
+	padding: 0.7rem;
+	overflow: hidden;
+}
+
+.stat-list-item {
+	text-align: left;
+	padding: 1rem;
+	margin-bottom: 0.3rem;
+	border-radius: 0.7rem;
+}
+
+.win-rate {
+	color: white;
+	position: relative;
+	bottom: 110px;
+	left: 5px;
+}
