@@ -1,6 +1,6 @@
 # ft_transcendence
 
-![Alt text](image-4.png)
+![Alt text](image-7.png)
 
 ## Résumé
 Bienvenue dans le projet ft_transcendence, où le C et le C++ cèdent la place à une aventure inédite. Ce projet vous invite à revisiter vos débuts en informatique et à briller avec vos compétences actuelles. Préparez-vous à créer un site web pour une compétition du jeu Pong, avec une touche moderne et interactive.
